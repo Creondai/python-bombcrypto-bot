@@ -9,13 +9,15 @@
 
 ## ⚠️ Warning
 
+This fork is designed for studies purposes only.
+
 I am not responsible for any penalties incurred by those who use the bot, use it at your own risk.
 
 ## 📄 Documentation
 | - | Language |
 |:---: | :---: |
 | ![Portuguese](https://raw.githubusercontent.com/newerton/bombcrypto-bot/main/images/readme/flags/brazil.png) | [Portuguese](https://github.com/newerton/bombcrypto-bot/blob/main/docs/README_pt-br.md) |
-  
+
 ## 📌 Glossary
 
   * [About](#about)
@@ -42,6 +44,7 @@ This bot contains code from other developers, this bot was just refactored, to f
 Developers (Base code):
 * https://github.com/mpcabete/
 * https://github.com/vin350/ (Telegram integration)
+* https://github.com/newerton/bombcrypto-bot (The creator of this fork)
 
 This bot is free and open source.
 
@@ -62,9 +65,9 @@ Features:
 * Send heroes to **House** for rarity
 
 ## 🎁 <a id="donation"></a>Donation
-BCOIN: 0x4847C29561B6682154E25c334E12d156e19F613a  
-SEN: 0x4847C29561B6682154E25c334E12d156e19F613a  
-PIX: 08912d17-47a6-411e-b7ec-ef793203f836  
+BCOIN: -  
+SEN: -  
+PIX: -  
 
 ## 🖌️ <a id="clean-page"></a>Clean Page - Remove all ads
 ### Stylebot https://stylebot.dev/
@@ -99,15 +102,15 @@ div {
   width: 965px;
   height: 645px;
 }
-``` 
+```
 ### Tampemonkey https://www.tampermonkey.net/
 ```js
 // ==UserScript==
 // @name         Bombcrypto Styles
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.0.1
 // @description  try to take over the world!
-// @author       Newerton
+// @author       -
 // @match        https://app.bombcrypto.io/
 // @icon         https://www.google.com/s2/favicons?domain=bombcrypto.io
 // @grant        none
@@ -175,15 +178,15 @@ The bot doesn't change any of the game's source code, it just takes a screenshot
 
 ### ⚠️ Some settings can be changed in the /config/config.yaml file, don't forget to restart the bot if you change the settings, some changes in the /config/config.yaml file may cause the bot to stop, such as activating the telegram when the bot is running.
 ## 🧪 <a id="tests"></a>Tests
-**Desktop Medium Profile**  
-Intel i5-3570k @ 3.4Ghz, 24GB RAM  
-Windows 11, Resolution@1920x1080  
-Python 3.9.9  
+**Desktop Profile**  
+Intel i7-4790 @ 3.6Ghz, 16GB RAM  
+Windows 10, Resolution@2560x1080  
+Python x.x.x 
 
-**Laptop Low Profile**  
-Laptop Samsumg RV411, Pentium P6200 @ 2.13Ghz, 2GB RAM  
-Windows 7, Resolution@1366x768  
-Python 3.8.10
+**Laptop Profile**  
+Laptop Lenovo ThinkPad T450s, Pentium i5 5300U @ 2.30Ghz, 8GB RAM  
+Windows 10, Resolution@1600x900  
+Python x.x.x
 
 ## 🎨 <a id="themes"></a>Themes
 |      theme     	| toolbar image preview 	|
@@ -333,7 +336,7 @@ A threshold of 0.99 or 1 is too high, it won't find the image it's looking for, 
 
 - Clicking random places (usually white) on the screen
    - False positive on image "metamask_sign_button.png"
- 
+
  ### False negative:
 
 - Not doing anything
@@ -344,6 +347,6 @@ A threshold of 0.99 or 1 is too high, it won't find the image it's looking for, 
 
 ## 👍 Did you like it? :)
 
-### BCOIN: 0x4847C29561B6682154E25c334E12d156e19F613a  
-### SEN: 0x4847C29561B6682154E25c334E12d156e19F613a  
-### PIX: 08912d17-47a6-411e-b7ec-ef793203f836
+### BCOIN: -
+### SEN: -
+### PIX: -
